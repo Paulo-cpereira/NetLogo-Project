@@ -12,3 +12,5 @@ Para o desenvolvimento destas funcionalidades não podemos considerar possível 
 
 Ver documentação completa do projeto em:
 [Relatorio_IA-TP1.pdf](https://github.com/Paulo-cpereira/NetLogo-Project/files/10021527/Relatorio_IA-TP1.pdf)
+
+Note: If you want to run this project, you should install NetLogo and then import the file into your environment.
